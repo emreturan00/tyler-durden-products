@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6IpQcxLD40yD0WGjFvvg0gAAAAACAAAAAAAQZgAAAAEAACAAAADxzfsaAXNplJpc4luVG+PYVEpeeEm6cWQ8s6i/NZBLQAAAAAAOgAAAAAIAACAAAAC4eWaMbHomuevCkBsDzoCWToxoIfgM4u0BVicqjwGD7IAAAADMXpO1UEKNsy/Yr8ItfKZGNe3OU59DV/a+4h0ClaN8sNSB5bPZ3vARKaISlgkb6ILEXlc7rZSVTOCr+jIDZp/bJgpblNSUP/WIBjt1igenO3j/qx0fsNF+eoZwLI1nhgri7tkHJpyjagJMJHXH9cev7YWdKEfZqFacvw22Q/d1akAAAACzz089xHaz7CEU0Wj2HnnD2GaKRdp/oyvug1Kctp7w6tIT/ZedGmQnm6WYQSek1b/hTKv9d/5cOa+CwC9o9lQW</EncryptedPassword>
+    <History>True|2023-03-16T22:37:57.9533307Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="WebApplication1Context">
+      <Value>durden</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
