@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Kam7qxXLHbHXkcFUILXUTDRfb6+V8pMI0KNnxgJKthY=",
+  "Hash": "MU9/tnGLaNcUYnYGyrLHh8u7nvjVyndBSY2Q4rbjkvA=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\durdenn.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\grup.jfif",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/grup.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\grup.jfif"
     },
     {
       "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\site.js",
