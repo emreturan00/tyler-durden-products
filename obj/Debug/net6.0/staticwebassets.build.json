@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BpWy7S6ULCO2ewRyEvhJuxckJ8J3IpB/WF6VpWT9+m0=",
+  "Hash": "cICKqmRKZuryaDylTdCABEwMHjUHU7FQOuHxRMyDTzw=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\durdenn.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/durdenn.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\durdenn.jpg"
     },
     {
       "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\site.js",
