@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emre\\source\\repos\\WebApplication1\\WebApplication1.csproj": {}
+    "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emre\\source\\repos\\WebApplication1\\WebApplication1.csproj": {
+    "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emre\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\emre\\source\\repos\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\emre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emre\\source\\repos\\WebApplication1\\obj\\",
+        "projectPath": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/WebApplication1.csproj",
+        "packagesPath": "/Users/kuzeyarar/.nuget/packages/",
+        "outputPath": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/kuzeyarar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -78,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
