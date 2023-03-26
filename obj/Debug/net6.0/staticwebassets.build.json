@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D12HYKCcYws6gisdQV50EPIsaAKsgJEyhakEYrmf3wk=",
+  "Hash": "OQOVZttL4SwV669I72iTuUmJL/mBloh5KEyD44n/U+w=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication1\\wwwroot",
       "Source": "WebApplication1",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication1.styles.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication1.styles.css",
       "SourceId": "WebApplication1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "WebApplication1.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\emre\\source\\repos\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication1.styles.css"
+      "OriginalItemSpec": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication1.styles.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
       "SourceId": "WebApplication1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "WebApplication1.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\emre\\source\\repos\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\.DS_Store",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\.DS_Store",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\animate.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\animate.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/animate.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\bootstrap.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\default-skin.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\default-skin.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/default-skin.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\default-skin.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\jquery.fancybox.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\jquery.fancybox.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/jquery.fancybox.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.fancybox.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/jquery.mCustomScrollbar.min.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.mCustomScrollbar.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\nice-select.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\nice-select.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/nice-select.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nice-select.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\owl.carousel.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\responsive.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\slick.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\slick.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/slick.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\style.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\favicon.ico",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\IcoMoon-Free.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\IcoMoon-Free.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/IcoMoon-Free.ttf",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\IcoMoon-Free.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-Black.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Black.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-Black.ttf",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-BlackItalic.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-BlackItalic.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-BlackItalic.ttf",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-BlackItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-Bold.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Bold.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-Bold.ttf",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-BoldItalic.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-BoldItalic.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-BoldItalic.ttf",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-BoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-ExtraBold.ttf",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-ExtraBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-ExtraBoldItalic.ttf",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-ExtraLight.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-ExtraLight.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-ExtraLight.ttf",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-ExtraLight.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-ExtraLightItalic.ttf",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-Italic.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Italic.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-Italic.ttf",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-Light.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Light.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-Light.ttf",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-LightItalic.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-LightItalic.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-LightItalic.ttf",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-LightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-Medium.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Medium.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-Medium.ttf",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-MediumItalic.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-MediumItalic.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-MediumItalic.ttf",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-MediumItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-Regular.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Regular.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-Regular.ttf",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-SemiBold.ttf",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-SemiBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-SemiBoldItalic.ttf",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-Thin.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Thin.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-Thin.ttf",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Thin.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\fonts\\Poppins-ThinItalic.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-ThinItalic.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Poppins-ThinItalic.ttf",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Poppins-ThinItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\.DS_Store",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\.DS_Store",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/.DS_Store",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\about.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\about.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/about.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\blog1.jpg",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\blog1.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog1.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog1.jpg"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\blog2.jpg",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\blog2.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog2.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog2.jpg"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\coff.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\coff.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/coff.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\coff.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\coff_img.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\coff_img.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/coff_img.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\coff_img.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\czn.jpg",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\czn.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/czn.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\czn.jpg"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\durdenn.jpg",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\durdenn.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/durdenn.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\durdenn.jpg"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\footer_af.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\footer_af.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/footer_af.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\footer_af.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\footer_be.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\footer_be.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/footer_be.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\footer_be.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\grup.jfif",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\grup.jfif",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/grup.jfif",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\grup.jfif"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\loading.gif",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\loading.gif",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/loading.gif",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\loading.gif"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\menu_icon.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\menu_icon.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/menu_icon.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu_icon.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\rambo.jpg",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\rambo.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/rambo.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rambo.jpg"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\ronaldo.jpg",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\ronaldo.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/ronaldo.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ronaldo.jpg"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\ser_img1.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\ser_img1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/ser_img1.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ser_img1.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\ser_img2.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\ser_img2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/ser_img2.png",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ser_img2.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\ser_img3.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\ser_img3.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/ser_img3.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ser_img3.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\images\\test_pro.jpg",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\test_pro.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/test_pro.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\test_pro.jpg"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\.DS_Store",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\.DS_Store",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/.DS_Store",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\js\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\custom.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/jquery.mCustomScrollbar.concat.min.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\jquery.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\jquery-3.0.0.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/jquery-3.0.0.min.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.0.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\popper.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\popper.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\.DS_Store",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\.DS_Store",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/.DS_Store",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\assets\\coloredbg.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\coloredbg.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/assets/coloredbg.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\assets\\coloredbg.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\assets\\gridtile.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\gridtile.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/assets/gridtile.png",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\assets\\gridtile.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\assets\\gridtile_3x3.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\gridtile_3x3.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/assets/gridtile_3x3.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\assets\\gridtile_3x3.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\assets\\gridtile_3x3_white.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\gridtile_3x3_white.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/assets/gridtile_3x3_white.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\assets\\gridtile_3x3_white.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\assets\\gridtile_white.png",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\gridtile_white.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/assets/gridtile_white.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\assets\\gridtile_white.png"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\assets\\loader.gif",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\loader.gif",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/assets/loader.gif",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\assets\\loader.gif"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\css\\closedhand.html",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\css\\closedhand.html",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/css/closedhand.html",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\css\\closedhand.html"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\css\\layers.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\css\\layers.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/css/layers.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\css\\layers.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\css\\navigation.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\css\\navigation.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/css/navigation.css",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\css\\navigation.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\css\\openhand.html",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\css\\openhand.html",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/css/openhand.html",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\css\\openhand.html"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\css\\settings.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\css\\settings.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/css/settings.css",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\css\\settings.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.eot",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.svg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.ttf",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.woff",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroked41d.eot",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.eot",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/fonts/revicons/revicons90c6.eot",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.eot"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.svg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/fonts/revicons/revicons90c6.svg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.svg"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/fonts/revicons/revicons90c6.ttf",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.woff",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/fonts/revicons/revicons90c6.woff",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.woff"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\.DS_Store",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\.DS_Store",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/.DS_Store",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/extensions/revolution.extension.actions.min.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/extensions/revolution.extension.carousel.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/extensions/revolution.extension.kenburn.min.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/extensions/revolution.extension.layeranimation.min.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/extensions/revolution.extension.migration.min.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/extensions/revolution.extension.navigation.min.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/extensions/revolution.extension.parallax.min.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/extensions/revolution.extension.slideanims.min.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/extensions/revolution.extension.video.min.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\jquery.themepunch.revolution.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/jquery.themepunch.revolution.min.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\jquery.themepunch.revolution.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\jquery.themepunch.tools.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/revolution/js/jquery.themepunch.tools.min.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\js\\revolution\\js\\jquery.themepunch.tools.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\js\\slider-setting.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\slider-setting.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/slider-setting.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slider-setting.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\emre\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

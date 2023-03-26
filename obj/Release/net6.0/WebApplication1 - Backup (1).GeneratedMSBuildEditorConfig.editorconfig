@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1_-_Backup_(1)
+build_property.RootNamespace = WebApplication1_-_Backup_(1)
+build_property.ProjectDir = C:\Users\MONSTER\source\repos\emreturan00\tyler-durden-products\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MONSTER\source\repos\emreturan00\tyler-durden-products
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MONSTER/source/repos/emreturan00/tyler-durden-products/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ifrdx29pw2
