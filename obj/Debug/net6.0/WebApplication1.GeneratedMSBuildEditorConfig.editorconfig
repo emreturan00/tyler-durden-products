@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/kuzeyarar/Documents/GitHub/tyler-durden-products
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/Pages/Coffee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29mZmVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

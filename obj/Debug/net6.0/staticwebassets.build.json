@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "E/iXG9MUfDoCRDmxv/hDK4ZiejhUHzbalUZRNqCbo98=",
+  "Hash": "pzcwliQEi0POf5b2HREf+UEAYHaWrXMreorHmEYqDIw=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -748,12 +748,12 @@
       "OriginalItemSpec": "wwwroot/fonts/Poppins-ThinItalic.ttf"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/.DS_Store",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/.DS_Store",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/.DS_Store",
+      "RelativePath": "image/.DS_Store",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -762,15 +762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/.DS_Store"
+      "OriginalItemSpec": "wwwroot/image/.DS_Store"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/about-icon-1.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/about-icon-1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/about-icon-1.png",
+      "RelativePath": "image/about-icon-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/about-icon-1.png"
+      "OriginalItemSpec": "wwwroot/image/about-icon-1.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/about-icon-2.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/about-icon-2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/about-icon-2.png",
+      "RelativePath": "image/about-icon-2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,15 +796,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/about-icon-2.png"
+      "OriginalItemSpec": "wwwroot/image/about-icon-2.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/about-icon-3.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/about-icon-3.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/about-icon-3.png",
+      "RelativePath": "image/about-icon-3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -813,15 +813,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/about-icon-3.png"
+      "OriginalItemSpec": "wwwroot/image/about-icon-3.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/about-img.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/about-img.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/about-img.png",
+      "RelativePath": "image/about-img.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -830,15 +830,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/about-img.png"
+      "OriginalItemSpec": "wwwroot/image/about-img.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/about.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/about.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/about.png",
+      "RelativePath": "image/about.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -847,15 +847,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/about.png"
+      "OriginalItemSpec": "wwwroot/image/about.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/blog1.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/blog1.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/blog1.jpg",
+      "RelativePath": "image/blog1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -864,15 +864,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/blog1.jpg"
+      "OriginalItemSpec": "wwwroot/image/blog1.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/blog2.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/blog2.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/blog2.jpg",
+      "RelativePath": "image/blog2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -881,15 +881,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/blog2.jpg"
+      "OriginalItemSpec": "wwwroot/image/blog2.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/coff_img.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/coff_img.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/coff_img.png",
+      "RelativePath": "image/coff_img.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,15 +898,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/coff_img.png"
+      "OriginalItemSpec": "wwwroot/image/coff_img.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/coff.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/coff.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/coff.png",
+      "RelativePath": "image/coff.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -915,15 +915,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/coff.png"
+      "OriginalItemSpec": "wwwroot/image/coff.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/czn.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/czn.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/czn.jpg",
+      "RelativePath": "image/czn.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,15 +932,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/czn.jpg"
+      "OriginalItemSpec": "wwwroot/image/czn.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/durdenn.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/durdenn.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/durdenn.jpg",
+      "RelativePath": "image/durdenn.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,15 +949,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/durdenn.jpg"
+      "OriginalItemSpec": "wwwroot/image/durdenn.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/footer_af.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/footer_af.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/footer_af.png",
+      "RelativePath": "image/footer_af.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -966,15 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/footer_af.png"
+      "OriginalItemSpec": "wwwroot/image/footer_af.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/footer_be.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/footer_be.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/footer_be.png",
+      "RelativePath": "image/footer_be.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/footer_be.png"
+      "OriginalItemSpec": "wwwroot/image/footer_be.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/grup.jfif",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/grup.jfif",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/grup.jfif",
+      "RelativePath": "image/grup.jfif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1000,15 +1000,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/grup.jfif"
+      "OriginalItemSpec": "wwwroot/image/grup.jfif"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/home-img-1.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/home-img-1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/home-img-1.png",
+      "RelativePath": "image/home-img-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1017,15 +1017,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/home-img-1.png"
+      "OriginalItemSpec": "wwwroot/image/home-img-1.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/home-img-2.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/home-img-2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/home-img-2.png",
+      "RelativePath": "image/home-img-2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1034,15 +1034,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/home-img-2.png"
+      "OriginalItemSpec": "wwwroot/image/home-img-2.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/home-img-3.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/home-img-3.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/home-img-3.png",
+      "RelativePath": "image/home-img-3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1051,15 +1051,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/home-img-3.png"
+      "OriginalItemSpec": "wwwroot/image/home-img-3.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image1.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/image1.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/image1.jpg",
+      "RelativePath": "image/image1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1068,15 +1068,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image1.jpg"
+      "OriginalItemSpec": "wwwroot/image/image1.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image2.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/image2.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/image2.jpg",
+      "RelativePath": "image/image2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,15 +1085,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image2.jpg"
+      "OriginalItemSpec": "wwwroot/image/image2.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image3.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/image3.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/image3.jpg",
+      "RelativePath": "image/image3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,15 +1102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image3.jpg"
+      "OriginalItemSpec": "wwwroot/image/image3.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image4.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/image4.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/image4.jpg",
+      "RelativePath": "image/image4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image4.jpg"
+      "OriginalItemSpec": "wwwroot/image/image4.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image5.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/image5.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/image5.jpg",
+      "RelativePath": "image/image5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image5.jpg"
+      "OriginalItemSpec": "wwwroot/image/image5.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image6.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/image6.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/image6.jpg",
+      "RelativePath": "image/image6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image6.jpg"
+      "OriginalItemSpec": "wwwroot/image/image6.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/loading.gif",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/loading.gif",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/loading.gif",
+      "RelativePath": "image/loading.gif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/loading.gif"
+      "OriginalItemSpec": "wwwroot/image/loading.gif"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/logo6.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/logo6.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/logo6.png",
+      "RelativePath": "image/logo6.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,15 +1187,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/logo6.png"
+      "OriginalItemSpec": "wwwroot/image/logo6.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/menu_icon.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/menu_icon.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/menu_icon.png",
+      "RelativePath": "image/menu_icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/menu_icon.png"
+      "OriginalItemSpec": "wwwroot/image/menu_icon.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/pic-1.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/pic-1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/pic-1.png",
+      "RelativePath": "image/pic-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,15 +1221,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/pic-1.png"
+      "OriginalItemSpec": "wwwroot/image/pic-1.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/pic-2.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/pic-2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/pic-2.png",
+      "RelativePath": "image/pic-2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1238,15 +1238,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/pic-2.png"
+      "OriginalItemSpec": "wwwroot/image/pic-2.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/pic-3.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/pic-3.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/pic-3.png",
+      "RelativePath": "image/pic-3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,15 +1255,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/pic-3.png"
+      "OriginalItemSpec": "wwwroot/image/pic-3.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/pic-4.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/pic-4.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/pic-4.png",
+      "RelativePath": "image/pic-4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1272,15 +1272,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/pic-4.png"
+      "OriginalItemSpec": "wwwroot/image/pic-4.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/rambo.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/rambo.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/rambo.jpg",
+      "RelativePath": "image/rambo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1289,15 +1289,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/rambo.jpg"
+      "OriginalItemSpec": "wwwroot/image/rambo.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/ronaldo.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/ronaldo.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/ronaldo.jpg",
+      "RelativePath": "image/ronaldo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/ronaldo.jpg"
+      "OriginalItemSpec": "wwwroot/image/ronaldo.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/ser_img1.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/ser_img1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/ser_img1.png",
+      "RelativePath": "image/ser_img1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1323,15 +1323,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/ser_img1.png"
+      "OriginalItemSpec": "wwwroot/image/ser_img1.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/ser_img2.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/ser_img2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/ser_img2.png",
+      "RelativePath": "image/ser_img2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1340,15 +1340,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/ser_img2.png"
+      "OriginalItemSpec": "wwwroot/image/ser_img2.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/ser_img3.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/ser_img3.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/ser_img3.png",
+      "RelativePath": "image/ser_img3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1357,15 +1357,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/ser_img3.png"
+      "OriginalItemSpec": "wwwroot/image/ser_img3.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/test_pro.jpg",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/test_pro.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/test_pro.jpg",
+      "RelativePath": "image/test_pro.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1374,15 +1374,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/test_pro.jpg"
+      "OriginalItemSpec": "wwwroot/image/test_pro.jpg"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/toggle-bg.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/toggle-bg.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/toggle-bg.png",
+      "RelativePath": "image/toggle-bg.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1391,15 +1391,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/toggle-bg.png"
+      "OriginalItemSpec": "wwwroot/image/toggle-bg.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/wave.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/wave.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/wave.png",
+      "RelativePath": "image/wave.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1408,15 +1408,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/wave.png"
+      "OriginalItemSpec": "wwwroot/image/wave.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/wave1.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/wave1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/wave1.png",
+      "RelativePath": "image/wave1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1425,15 +1425,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/wave1.png"
+      "OriginalItemSpec": "wwwroot/image/wave1.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/wave2.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/wave2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/wave2.png",
+      "RelativePath": "image/wave2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1442,15 +1442,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/wave2.png"
+      "OriginalItemSpec": "wwwroot/image/wave2.png"
     },
     {
-      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/wavelast.png",
+      "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/image/wavelast.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/wavelast.png",
+      "RelativePath": "image/wavelast.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,7 +1459,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/wavelast.png"
+      "OriginalItemSpec": "wwwroot/image/wavelast.png"
     },
     {
       "Identity": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/.DS_Store",
