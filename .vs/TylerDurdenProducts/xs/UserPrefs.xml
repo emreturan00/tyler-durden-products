@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{BB5A9234-F7D2-426F-95DE-E6A3AC300603}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Coffee.cshtml">
+    <Files>
+      <File FileName="Pages/Home.cshtml" Line="12" Column="1" />
+      <File FileName="Pages/Home.cshtml.cs" Line="5" Column="32" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="36" Column="25" />
+      <File FileName="Pages/Coffee.cshtml" Line="85" Column="47" />
+      <File FileName="wwwroot/css/styleCoffee.css" Line="7" Column="33" />
+      <File FileName="wwwroot/css/style.css" Line="1" Column="1" />
+      <File FileName="Pages/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TylerDurdenProducts" expanded="True">
+            <Node name="WebApplication1" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Coffee.cshtml" expanded="True" selected="True" />
+                <Node name="Home.cshtml" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="images" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebApplication1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

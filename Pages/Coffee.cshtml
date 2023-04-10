@@ -1,0 +1,501 @@
+@page
+@model WebApplication1.Pages.CoffeeModel
+@{
+    ViewData["Title"] = "Coffee";
+}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsive Nav Menu</title>
+    <link rel="stylesheet" type="text/css" href="css/styleCoffee.css" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+</head>
+<body>
+    <!--Header-->
+    <section class="header-section">
+        <header class="main-header">
+            <a href="#" class="main-header-logo">
+                <img src="image/logo6.png"
+                     class="main-header-logo-image"
+                     alt="" />Name
+            </a>
+            <div class="main-header-group">
+                <ul class="navigation">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+                <div class="main-header-search">
+                    <span class="main-header-icon">
+                        <ion-icon name="search-outline"
+                                  class="MainHeadersearchButton"></ion-icon>
+                        <ion-icon name="close-outline"
+                                  class="MainheadercloseButton"></ion-icon>
+                    </span>
+                </div>
+                <ion-icon name="menu-outline"
+                          id="menu-icon"
+                          class="menuToggle"></ion-icon>
+            </div>
+            <div class="MainHeadersearchBox">
+                <input type="text" placeholder="Search here . . ." />
+            </div>
+        </header>
+        <script type="module"
+                src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule
+                src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+        <script>
+        let MainHeadersearchButton = document.querySelector(
+          ".MainHeadersearchButton"
+        );
+        let MainheadercloseButton = document.querySelector(
+          ".MainheadercloseButton"
+        );
+        let MainHeadersearchBox = document.querySelector(
+          ".MainHeadersearchBox"
+        );
+        let navigation = document.querySelector(".navigation");
+        let menuToggle = document.querySelector(".menuToggle");
+        let header = document.querySelector("header");
+
+        MainHeadersearchButton.onclick = function () {
+          MainHeadersearchBox.classList.add("active");
+          MainheadercloseButton.classList.add("active");
+          MainHeadersearchButton.classList.add("active");
+          menuToggle.classList.add("hide");
+          header.classList.remove("open");
+        };
+        MainheadercloseButton.onclick = function () {
+          MainHeadersearchBox.classList.remove("active");
+          MainheadercloseButton.classList.remove("active");
+          MainHeadersearchButton.classList.remove("active");
+          menuToggle.classList.remove("hide");
+        };
+        menuToggle.onclick = function () {
+          header.classList.toggle("open");
+          MainHeadersearchBox.classList.remove("active");
+          MainheadercloseButton.classList.remove("active");
+          MainHeadersearchButton.classList.remove("active");
+        };
+        </script>
+    </section>
+    <!--Home-->
+    <section class="content">
+        <section class="home" id="home">
+            <div class="row">
+                <div class="inner-content">
+                    <div class="inner-inner-content">
+                        <h3 data-text="NEW&nbsp;PRODUCTS">NEW&nbsp;PRODUCTS</h3>
+                    </div>
+                    <a href="#" class="btn"><span>buy one now</span><i></i></a>
+                </div>
+                <div class="image">
+                    <img src="image/home-img-1.png" class="main-home-image" alt="" />
+                </div>
+            </div>
+            <div class="image-slider">
+                <img src="image/home-img-1.png" alt="" />
+                <img src="image/home-img-2.png" alt="" />
+                <img src="image/home-img-3.png" alt="" />
+            </div>
+        </section>
+        <!--about-->
+        <section class="about" id="about">
+            <div class="about-heading-animation">
+                <h3 data-text="ABOUT&nbsp;US">ABOUT US</h3>
+            </div>
+            <div class="row">
+                <div class="image">
+                    <img src="image/about-img.png" alt="" />
+                </div>
+                <div class="inner-content">
+                    <h3 class="title">lLOREM</h3>
+                    <p>
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse et
+                        commodi, ad, doloremque obcaecati maxime quam minima dolore
+                        mollitia saepe quos, debitis incidunt. Itaque possimus adipisci
+                        ipsam harum at autem.
+                    </p>
+                    <a href="#" class="btn"><span>Learn more</span><i></i></a>
+                    <div class="icons-container">
+                        <div class="icons">
+                            <img src="image/about-icon-1.png" alt="" />
+                            <h3>Quality Coffee</h3>
+                        </div>
+                        <div class="icons">
+                            <img src="image/about-icon-2.png" alt="" />
+                            <h3>Our Locations</h3>
+                        </div>
+                        <div class="icons">
+                            <img src="image/about-icon-3.png" alt="" />
+                            <h3>Free Shipping</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <script>
+        function attachClickEvent() {
+          document.querySelectorAll(".image-slider img").forEach((images) => {
+            images.onclick = () => {
+              var src = images.getAttribute("src");
+              document.querySelector(".main-home-image").src = src;
+            };
+          });
+        }
+        window.onload = attachClickEvent;
+        </script>
+        <!--Testimonials-->
+        <section class="testimonials-body-section">
+            <div class="testimonials-section">
+                <header class="section-header">
+                    <h1 data-text="Testimonials">Testimonials</h1>
+                </header>
+                <div class="owl-carousel owl-theme testimonials-container">
+                    <div class="item testimonial-card">
+                        <div class="test-card-body">
+                            <div class="quote">
+                                <i class="fa fa-quote-left"></i>
+                                <h2>LOREM</h2>
+                            </div>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+                                do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                                laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                                irure dolor in reprehenderit in voluptate velit esse.
+                            </p>
+                            <div class="ratings">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <div class="profile">
+                            <div class="profile-image">
+                                <img src="image/image1.jpg" />
+                            </div>
+                            <div class="profile-desc">
+                                <span>Person Name</span>
+                                <span>Description</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item testimonial-card">
+                        <div class="test-card-body">
+                            <div class="quote">
+                                <i class="fa fa-quote-left"></i>
+                                <h2>LOREM</h2>
+                            </div>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+                                do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                                laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                                irure dolor in reprehenderit in voluptate velit esse.
+                            </p>
+                            <div class="ratings">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <div class="profile">
+                            <div class="profile-image">
+                                <img src="image/image2.jpg" />
+                            </div>
+                            <div class="profile-desc">
+                                <span>Person Name</span>
+                                <span>Description</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item testimonial-card">
+                        <div class="test-card-body">
+                            <div class="quote">
+                                <i class="fa fa-quote-left"></i>
+                                <h2>LOREM</h2>
+                            </div>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+                                do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                                laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                                irure dolor in reprehenderit in voluptate velit esse.
+                            </p>
+                            <div class="ratings">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <div class="profile">
+                            <div class="profile-image">
+                                <img src="image/image3.jpg" />
+                            </div>
+                            <div class="profile-desc">
+                                <span>Person Name</span>
+                                <span>Description</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item testimonial-card">
+                        <div class="test-card-body">
+                            <div class="quote">
+                                <i class="fa fa-quote-left"></i>
+                                <h2>LOREM</h2>
+                            </div>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+                                do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                                laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                                irure dolor in reprehenderit in voluptate velit esse.
+                            </p>
+                            <div class="ratings">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <div class="profile">
+                            <div class="profile-image">
+                                <img src="image/image4.jpg" />
+                            </div>
+                            <div class="profile-desc">
+                                <span>Person Name</span>
+                                <span>Description</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item testimonial-card">
+                        <div class="test-card-body">
+                            <div class="quote">
+                                <i class="fa fa-quote-left"></i>
+                                <h2>LOREM</h2>
+                            </div>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+                                do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                                laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                                irure dolor in reprehenderit in voluptate velit esse.
+                            </p>
+                            <div class="ratings">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <div class="profile">
+                            <div class="profile-image">
+                                <img src="image/image5.jpg" />
+                            </div>
+                            <div class="profile-desc">
+                                <span>Person Name</span>
+                                <span>Description</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item testimonial-card">
+                        <div class="test-card-body">
+                            <div class="quote">
+                                <i class="fa fa-quote-left"></i>
+                                <h2>LOREM</h2>
+                            </div>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+                                do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                                laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                                irure dolor in reprehenderit in voluptate velit esse.
+                            </p>
+                            <div class="ratings">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                            </div>
+                        </div>
+                        <div class="profile">
+                            <div class="profile-image">
+                                <img src="image/image6.jpg" />
+                            </div>
+                            <div class="profile-desc">
+                                <span>Person Name</span>
+                                <span>Description</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script>
+          $(document).ready(function () {
+            $(".testimonials-container").owlCarousel({
+              loop: true,
+              autoplay: true,
+              autoplayTimeout: 6000,
+              margin: 10,
+              nav: true,
+              navText: [
+                "<i class='fa-solid fa-arrow-left'></i>",
+                "<i class='fa-solid fa-arrow-right'></i>",
+              ],
+              responsive: {
+                0: {
+                  items: 1,
+                  nav: false,
+                },
+                600: {
+                  items: 1,
+                  nav: true,
+                },
+                768: {
+                  items: 2,
+                },
+              },
+            });
+          });
+            </script>
+        </section>
+        <section class="FAQ">
+            <div class="containerFluid">
+                <h2>FAQs</h2>
+                <div class="accordion">
+                    <div class="accordion-icon"></div>
+                    <h5>What is Lorem Ipsum?</h5>
+                </div>
+                <div class="accordion-panel">
+                    <p>
+                        Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry. Lorem Ipsum has been the industry's standard dummy text
+                        ever since the 1500s, when an unknown printer took a galley of
+                        type and scrambled it to make a type specimen book. It has
+                        survived not only five centuries, but also the leap into
+                        electronic typesetting, remaining essentially unchanged.
+                    </p>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-icon"></div>
+                    <h5>Why do we use it?</h5>
+                </div>
+                <div class="accordion-panel">
+                    <p>
+                        Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry. Lorem Ipsum has been the industry's standard dummy text
+                        ever since the 1500s, when an unknown printer took a galley of
+                        type and scrambled it to make a type specimen book. It has
+                        survived not only five centuries, but also the leap into
+                        electronic typesetting, remaining essentially unchanged.
+                    </p>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-icon"></div>
+                    <h5>Where does it come from?</h5>
+                </div>
+                <div class="accordion-panel">
+                    <p>
+                        Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry. Lorem Ipsum has been the industry's standard dummy text
+                        ever since the 1500s, when an unknown printer took a galley of
+                        type and scrambled it to make a type specimen book. It has
+                        survived not only five centuries, but also the leap into
+                        electronic typesetting, remaining essentially unchanged.
+                    </p>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-icon"></div>
+                    <h5>Why do we use it?</h5>
+                </div>
+                <div class="accordion-panel">
+                    <p>
+                        Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry. Lorem Ipsum has been the industry's standard dummy text
+                        ever since the 1500s, when an unknown printer took a galley of
+                        type and scrambled it to make a type specimen book. It has
+                        survived not only five centuries, but also the leap into
+                        electronic typesetting, remaining essentially unchanged.
+                    </p>
+                </div>
+            </div>
+            <script>
+          var acc = document.getElementsByClassName("accordion");
+          var i;
+          var len = acc.length;
+          for (i = 0; i < len; i++) {
+            acc[i].addEventListener("click", function () {
+              this.classList.toggle("accordion-active");
+              var panel = this.nextElementSibling;
+              if (panel.style.maxHeight) {
+                panel.style.maxHeight = null;
+              } else {
+                panel.style.maxHeight = panel.scrollHeight + "px";
+              }
+            });
+          }
+            </script>
+        </section>
+    </section>
+    <!--Footer-->
+    <section class="footer-section">
+        <footer>
+            <div class="waves">
+                <div class="wave" id="wave1"></div>
+                <div class="wave" id="wave2"></div>
+                <div class="wave" id="wave3"></div>
+                <div class="wave" id="wave4"></div>
+            </div>
+            <ul class="footer-social-icon">
+                <li>
+                    <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+                </li>
+                <li>
+                    <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+                </li>
+                <li>
+                    <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+                </li>
+                <li>
+                    <a href="#"><ion-icon name="logo-reddit"></ion-icon></a>
+                </li>
+            </ul>
+            <ul class="footer-menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <p class="copy-right">&#169; 2023 Sungur | All rights Reserved</p>
+        </footer>
+    </section>
+</body>
+</html>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

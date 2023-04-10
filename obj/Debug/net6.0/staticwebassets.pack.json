@@ -1,663 +1,763 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/obj/Debug/net6.0/scopedcss/projectbundle/WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets/WebApplication1.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\.DS_Store",
-      "PackagePath": "staticwebassets\\css\\.DS_Store"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\animate.min.css",
-      "PackagePath": "staticwebassets\\css\\animate.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/animate.min.css",
+      "PackagePath": "staticwebassets/css/animate.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\default-skin.css",
-      "PackagePath": "staticwebassets\\css\\default-skin.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\font-awesome.min.css",
-      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/default-skin.css",
+      "PackagePath": "staticwebassets/css/default-skin.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\jquery.fancybox.min.css",
-      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/css/font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
-      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets/css/jquery.fancybox.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\nice-select.css",
-      "PackagePath": "staticwebassets\\css\\nice-select.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets/css/jquery.mCustomScrollbar.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\owl.carousel.min.css",
-      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/nice-select.css",
+      "PackagePath": "staticwebassets/css/nice-select.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\responsive.css",
-      "PackagePath": "staticwebassets\\css\\responsive.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/css/owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\slick.css",
-      "PackagePath": "staticwebassets\\css\\slick.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/responsive.css",
+      "PackagePath": "staticwebassets/css/responsive.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/slick.css",
+      "PackagePath": "staticwebassets/css/slick.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/css/styleCoffee.css",
+      "PackagePath": "staticwebassets/css/styleCoffee.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\IcoMoon-Free.ttf",
-      "PackagePath": "staticwebassets\\fonts\\IcoMoon-Free.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Black.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Black.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fonts/FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-BlackItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-BlackItalic.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets/fonts/IcoMoon-Free.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Bold.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Bold.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-Black.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-Black.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-BoldItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-BoldItalic.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-BlackItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBold.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBoldItalic.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-BoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-ExtraLight.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLight.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-ExtraBold.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLightItalic.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-ExtraBoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Italic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Italic.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-ExtraLight.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Light.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Light.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-ExtraLightItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-LightItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-LightItalic.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-Italic.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Medium.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Medium.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-MediumItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-MediumItalic.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-LightItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Regular.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Regular.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBold.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-MediumItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBoldItalic.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-Thin.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Thin.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-SemiBold.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\Poppins-ThinItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-ThinItalic.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-SemiBoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-Thin.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Poppins-ThinItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\fonts\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\.DS_Store",
-      "PackagePath": "staticwebassets\\images\\.DS_Store"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\about.png",
-      "PackagePath": "staticwebassets\\images\\about.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\blog1.jpg",
-      "PackagePath": "staticwebassets\\images\\blog1.jpg"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\blog2.jpg",
-      "PackagePath": "staticwebassets\\images\\blog2.jpg"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/about-icon-1.png",
+      "PackagePath": "staticwebassets/images/about-icon-1.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\coff.png",
-      "PackagePath": "staticwebassets\\images\\coff.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/about-icon-2.png",
+      "PackagePath": "staticwebassets/images/about-icon-2.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\coff_img.png",
-      "PackagePath": "staticwebassets\\images\\coff_img.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/about-icon-3.png",
+      "PackagePath": "staticwebassets/images/about-icon-3.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\czn.jpg",
-      "PackagePath": "staticwebassets\\images\\czn.jpg"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/about-img.png",
+      "PackagePath": "staticwebassets/images/about-img.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\durdenn.jpg",
-      "PackagePath": "staticwebassets\\images\\durdenn.jpg"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/about.png",
+      "PackagePath": "staticwebassets/images/about.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\footer_af.png",
-      "PackagePath": "staticwebassets\\images\\footer_af.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/blog1.jpg",
+      "PackagePath": "staticwebassets/images/blog1.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\footer_be.png",
-      "PackagePath": "staticwebassets\\images\\footer_be.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/blog2.jpg",
+      "PackagePath": "staticwebassets/images/blog2.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\grup.jfif",
-      "PackagePath": "staticwebassets\\images\\grup.jfif"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/coff.png",
+      "PackagePath": "staticwebassets/images/coff.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\loading.gif",
-      "PackagePath": "staticwebassets\\images\\loading.gif"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/coff_img.png",
+      "PackagePath": "staticwebassets/images/coff_img.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\menu_icon.png",
-      "PackagePath": "staticwebassets\\images\\menu_icon.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/czn.jpg",
+      "PackagePath": "staticwebassets/images/czn.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\rambo.jpg",
-      "PackagePath": "staticwebassets\\images\\rambo.jpg"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/durdenn.jpg",
+      "PackagePath": "staticwebassets/images/durdenn.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\ronaldo.jpg",
-      "PackagePath": "staticwebassets\\images\\ronaldo.jpg"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/footer_af.png",
+      "PackagePath": "staticwebassets/images/footer_af.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\ser_img1.png",
-      "PackagePath": "staticwebassets\\images\\ser_img1.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/footer_be.png",
+      "PackagePath": "staticwebassets/images/footer_be.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\ser_img2.png",
-      "PackagePath": "staticwebassets\\images\\ser_img2.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/grup.jfif",
+      "PackagePath": "staticwebassets/images/grup.jfif"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\ser_img3.png",
-      "PackagePath": "staticwebassets\\images\\ser_img3.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/home-img-1.png",
+      "PackagePath": "staticwebassets/images/home-img-1.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\images\\test_pro.jpg",
-      "PackagePath": "staticwebassets\\images\\test_pro.jpg"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/home-img-2.png",
+      "PackagePath": "staticwebassets/images/home-img-2.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\.DS_Store",
-      "PackagePath": "staticwebassets\\js\\.DS_Store"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/home-img-3.png",
+      "PackagePath": "staticwebassets/images/home-img-3.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image1.jpg",
+      "PackagePath": "staticwebassets/images/image1.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image2.jpg",
+      "PackagePath": "staticwebassets/images/image2.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image3.jpg",
+      "PackagePath": "staticwebassets/images/image3.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\custom.js",
-      "PackagePath": "staticwebassets\\js\\custom.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image4.jpg",
+      "PackagePath": "staticwebassets/images/image4.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\jquery-3.0.0.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image5.jpg",
+      "PackagePath": "staticwebassets/images/image5.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/image6.jpg",
+      "PackagePath": "staticwebassets/images/image6.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\jquery.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/loading.gif",
+      "PackagePath": "staticwebassets/images/loading.gif"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\owl.carousel.min.js",
-      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/logo6.png",
+      "PackagePath": "staticwebassets/images/logo6.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\popper.min.js",
-      "PackagePath": "staticwebassets\\js\\popper.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/menu_icon.png",
+      "PackagePath": "staticwebassets/images/menu_icon.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\.DS_Store",
-      "PackagePath": "staticwebassets\\js\\revolution\\.DS_Store"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/pic-1.png",
+      "PackagePath": "staticwebassets/images/pic-1.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\coloredbg.png",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\coloredbg.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/pic-2.png",
+      "PackagePath": "staticwebassets/images/pic-2.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\gridtile.png",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/pic-3.png",
+      "PackagePath": "staticwebassets/images/pic-3.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\gridtile_3x3.png",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_3x3.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/pic-4.png",
+      "PackagePath": "staticwebassets/images/pic-4.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\gridtile_3x3_white.png",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_3x3_white.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/rambo.jpg",
+      "PackagePath": "staticwebassets/images/rambo.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\gridtile_white.png",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_white.png"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/ronaldo.jpg",
+      "PackagePath": "staticwebassets/images/ronaldo.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\assets\\loader.gif",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\loader.gif"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/ser_img1.png",
+      "PackagePath": "staticwebassets/images/ser_img1.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\css\\closedhand.html",
-      "PackagePath": "staticwebassets\\js\\revolution\\css\\closedhand.html"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/ser_img2.png",
+      "PackagePath": "staticwebassets/images/ser_img2.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\css\\layers.css",
-      "PackagePath": "staticwebassets\\js\\revolution\\css\\layers.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/ser_img3.png",
+      "PackagePath": "staticwebassets/images/ser_img3.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\css\\navigation.css",
-      "PackagePath": "staticwebassets\\js\\revolution\\css\\navigation.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/test_pro.jpg",
+      "PackagePath": "staticwebassets/images/test_pro.jpg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\css\\openhand.html",
-      "PackagePath": "staticwebassets\\js\\revolution\\css\\openhand.html"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/toggle-bg.png",
+      "PackagePath": "staticwebassets/images/toggle-bg.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\css\\settings.css",
-      "PackagePath": "staticwebassets\\js\\revolution\\css\\settings.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/wave.png",
+      "PackagePath": "staticwebassets/images/wave.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/wave1.png",
+      "PackagePath": "staticwebassets/images/wave1.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/wave2.png",
+      "PackagePath": "staticwebassets/images/wave2.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/images/wavelast.png",
+      "PackagePath": "staticwebassets/images/wavelast.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/.DS_Store",
+      "PackagePath": "staticwebassets/js/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.eot",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.eot"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.svg",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.svg"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/custom.js",
+      "PackagePath": "staticwebassets/js/custom.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets/js/jquery-3.0.0.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.woff",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.woff"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets/js/jquery.mCustomScrollbar.concat.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\.DS_Store",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\.DS_Store"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/popper.min.js",
+      "PackagePath": "staticwebassets/js/popper.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/.DS_Store",
+      "PackagePath": "staticwebassets/js/revolution/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/assets/coloredbg.png",
+      "PackagePath": "staticwebassets/js/revolution/assets/coloredbg.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/assets/gridtile.png",
+      "PackagePath": "staticwebassets/js/revolution/assets/gridtile.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/assets/gridtile_3x3.png",
+      "PackagePath": "staticwebassets/js/revolution/assets/gridtile_3x3.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/assets/gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets/js/revolution/assets/gridtile_3x3_white.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/assets/gridtile_white.png",
+      "PackagePath": "staticwebassets/js/revolution/assets/gridtile_white.png"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/assets/loader.gif",
+      "PackagePath": "staticwebassets/js/revolution/assets/loader.gif"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\jquery.themepunch.revolution.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\jquery.themepunch.revolution.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/css/closedhand.html",
+      "PackagePath": "staticwebassets/js/revolution/css/closedhand.html"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\revolution\\js\\jquery.themepunch.tools.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\jquery.themepunch.tools.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/css/layers.css",
+      "PackagePath": "staticwebassets/js/revolution/css/layers.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\js\\slider-setting.js",
-      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/css/navigation.css",
+      "PackagePath": "staticwebassets/js/revolution/css/navigation.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/css/openhand.html",
+      "PackagePath": "staticwebassets/js/revolution/css/openhand.html"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/css/settings.css",
+      "PackagePath": "staticwebassets/js/revolution/css/settings.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets/js/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.eot",
+      "PackagePath": "staticwebassets/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.eot"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.svg",
+      "PackagePath": "staticwebassets/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.svg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.ttf",
+      "PackagePath": "staticwebassets/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.woff",
+      "PackagePath": "staticwebassets/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.woff"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroked41d.eot",
+      "PackagePath": "staticwebassets/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroked41d.eot"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/fonts/revicons/revicons90c6.eot",
+      "PackagePath": "staticwebassets/js/revolution/fonts/revicons/revicons90c6.eot"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/fonts/revicons/revicons90c6.svg",
+      "PackagePath": "staticwebassets/js/revolution/fonts/revicons/revicons90c6.svg"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/fonts/revicons/revicons90c6.ttf",
+      "PackagePath": "staticwebassets/js/revolution/fonts/revicons/revicons90c6.ttf"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/fonts/revicons/revicons90c6.woff",
+      "PackagePath": "staticwebassets/js/revolution/fonts/revicons/revicons90c6.woff"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/.DS_Store",
+      "PackagePath": "staticwebassets/js/revolution/js/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/extensions/revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets/js/revolution/js/extensions/revolution.extension.actions.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/extensions/revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets/js/revolution/js/extensions/revolution.extension.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/extensions/revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets/js/revolution/js/extensions/revolution.extension.kenburn.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/extensions/revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets/js/revolution/js/extensions/revolution.extension.layeranimation.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/extensions/revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets/js/revolution/js/extensions/revolution.extension.migration.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/extensions/revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets/js/revolution/js/extensions/revolution.extension.navigation.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/extensions/revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets/js/revolution/js/extensions/revolution.extension.parallax.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/extensions/revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets/js/revolution/js/extensions/revolution.extension.slideanims.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/extensions/revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets/js/revolution/js/extensions/revolution.extension.video.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets/js/revolution/js/jquery.themepunch.revolution.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/revolution/js/jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets/js/revolution/js/jquery.themepunch.tools.min.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/js/slider-setting.js",
+      "PackagePath": "staticwebassets/js/slider-setting.js"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\MONSTER\\Source\\Repos\\emreturan00\\tyler-durden-products\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/kuzeyarar/Documents/GitHub/tyler-durden-products/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.WebApplication1.props",
       "PackagePath": "build\\WebApplication1.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props",
       "PackagePath": "buildMultiTargeting\\WebApplication1.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props",
       "PackagePath": "buildTransitive\\WebApplication1.props"
     }
   ],

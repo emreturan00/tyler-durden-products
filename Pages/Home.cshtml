@@ -1,0 +1,11 @@
+@page
+@model WebApplication1.Pages.HomeModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h1>Home</h1>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

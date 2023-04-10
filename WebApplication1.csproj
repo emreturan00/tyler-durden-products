@@ -7,11 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\css\style.css.map" />
-    <None Include="wwwroot\css\style.scss" />
     <None Include="wwwroot\fonts\fontawesome-webfont.woff2" />
-    <None Include="wwwroot\images\.DS_Store" />
-    <None Include="wwwroot\images\durdenn.jpg" />
+    <None Include="wwwroot\image\.DS_Store" />
+    <None Include="wwwroot\image\durdenn.jpg" />
     <None Include="wwwroot\js\bootstrap.js" />
     <None Include="wwwroot\js\custom.js" />
     <None Include="wwwroot\js\jquery-3.4.1.min.js" />
@@ -31,7 +29,4 @@
     <Folder Include="wwwroot\icon\" />
   </ItemGroup>
 
-</Project>
-
-
-<!-- bu nası bi commenttir nolur gitsin  -->
+</Project><!-- bu nası bi commenttir nolur gitsin  -->
