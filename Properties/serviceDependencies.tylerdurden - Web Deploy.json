@@ -3,7 +3,7 @@
     "mssql1": {
       "secretStore": "AzureAppSettings",
       "type": "mssql.onprem",
-      "connectionId": "ConnectionStrings:WebApplication1Context",
+      "connectionId": "ConnectionStrings:ApplicationDbContextConnection",
       "dynamicId": null
     }
   }

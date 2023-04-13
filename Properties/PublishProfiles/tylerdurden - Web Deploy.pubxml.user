@@ -6,13 +6,8 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project>
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6IpQcxLD40yD0WGjFvvg0gAAAAACAAAAAAAQZgAAAAEAACAAAADxzfsaAXNplJpc4luVG+PYVEpeeEm6cWQ8s6i/NZBLQAAAAAAOgAAAAAIAACAAAAC4eWaMbHomuevCkBsDzoCWToxoIfgM4u0BVicqjwGD7IAAAADMXpO1UEKNsy/Yr8ItfKZGNe3OU59DV/a+4h0ClaN8sNSB5bPZ3vARKaISlgkb6ILEXlc7rZSVTOCr+jIDZp/bJgpblNSUP/WIBjt1igenO3j/qx0fsNF+eoZwLI1nhgri7tkHJpyjagJMJHXH9cev7YWdKEfZqFacvw22Q/d1akAAAACzz089xHaz7CEU0Wj2HnnD2GaKRdp/oyvug1Kctp7w6tIT/ZedGmQnm6WYQSek1b/hTKv9d/5cOa+CwC9o9lQW</EncryptedPassword>
-    <History>True|2023-03-17T00:26:10.8493601Z;True|2023-03-17T03:20:47.1431145+03:00;True|2023-03-17T03:15:31.6295666+03:00;True|2023-03-17T02:40:44.4734355+03:00;True|2023-03-17T01:37:57.9533307+03:00;</History>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6IpQcxLD40yD0WGjFvvg0gAAAAACAAAAAAAQZgAAAAEAACAAAAC9u6dipotEAVafdR+kbmhRCmsHN2JqfOL8nwcHVjlDLQAAAAAOgAAAAAIAACAAAACjl2kYQ36ieKbItMGwbSqAE3uZJc3IXpYC3RLgRT3I+IAAAABenvKCTn+Li4WO/1fmMtBjIG8n9TFliOilZNGYWMX3SAuo/MbrmDu3oOIg6S7c7Oph+gfCn81rO004+vcBs65x+pEa5bhwgpONXQ9l+Rsjzk0f+3jpeNBk6jZwndDlo0JWDu7p361uVWBGbItmECA6neuIYsSEBBhL25E0aqmq1EAAAABNub/Zl2gCbTX0UhQtDOh6lVjnt5ffvVn+QVxY9qTJ5YDDYvInIdL7Cc3ubqNZDE6d1+L3boB2gmJTZAEsYOZ7</EncryptedPassword>
+    <History>True|2023-04-12T23:11:44.3390972Z;True|2023-04-13T02:07:36.9278973+03:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
-  <ItemGroup>
-    <DestinationConnectionStrings Include="WebApplication1Context">
-      <Value>durden</Value>
-    </DestinationConnectionStrings>
-  </ItemGroup>
 </Project>
