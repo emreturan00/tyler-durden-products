@@ -32,7 +32,7 @@
 }
 
 .container {
-     max-width: 1170px;
+     max-width: auto;
 }
 
 html {
