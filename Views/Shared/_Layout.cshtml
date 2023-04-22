@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -7,29 +9,33 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/WebApplication1.styles.css" asp-append-version="true" />
+
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-auto">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
             <div class="collapse navbar-collapse" id="navbarsExample04">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="MainIndex">Home</a>
+                        <a class="nav-link" href="~/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../Home/About">About</a>
+                        <a class="nav-link" href="~/Home/About">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Home/service.html">Service</a>
+                        <a class="nav-link" href="~/Home/Privacy">Privacy</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Home/testimonial.html">Testimonial</a>
+                        <a class="nav-link" href="~/Home/Testimonial">Testimonial</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Home/blog.html">Blog</a>
+                        <a class="nav-link" href="~/Home/Blog">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Home/contact.html">Contact Us</a>
+                        <a class="nav-link" href="~/Home/Contact">Contact Us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" style="background: transparent;" href="Javascript:void(0)"><i class="fa fa-search"></i></a>
@@ -40,21 +46,21 @@
             </div>
         </nav>
     </header>
-	<div class="container-fluid">
+    <div class="container-fluid">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    
-    
 
-  @*  <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - WebApplication1 - <a asp-area="" asp-page="/Privacy">Privacy</a>
-        </div>
-    </footer>
-*@
+
+
+    @*  <footer class="border-top footer text-muted">
+            <div class="container">
+                &copy; 2023 - WebApplication1 - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            </div>
+        </footer>
+    *@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
